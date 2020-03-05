@@ -43,7 +43,7 @@ Any relevant papers
 ## Authors
 
 * **Amanda B. Lee** - *Initial work* - [Website](https://anth.uic.edu/profiles/lee-amanda/)
-* **Lyle W. Konigsberg**  - [Website]http://faculty.las.illinois.edu/lylek/)
+* **Lyle W. Konigsberg**  - [Website](http://faculty.las.illinois.edu/lylek/)
 
 ## Acknowledgments
 
