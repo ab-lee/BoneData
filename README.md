@@ -42,8 +42,8 @@ Any relevant papers
 
 ## Authors
 
-* **Amanda B. Lee** - *Data analysis* - [Website](https://anth.uic.edu/profiles/lee-amanda/)
-* **Lyle W. Konigsberg**  - *Supervisor* - [Website](http://faculty.las.illinois.edu/lylek/)
+* **Amanda B. Lee** - [Website](https://anth.uic.edu/profiles/lee-amanda/)
+* **Lyle W. Konigsberg** - [Website](http://faculty.las.illinois.edu/lylek/)
 
 ## Acknowledgments
 
