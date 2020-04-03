@@ -1,4 +1,4 @@
-# Bone Data
+# Test Data Set
 
 A collection of bone measurements (in CSV format) and associated code for matching analysis (in R).
 
